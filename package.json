@@ -1,0 +1,26 @@
+{
+  "name": "dojo-form",
+  "version": "1.0.0",
+  "description": "A simple form library for react that reduces complexity and speeds up development time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomthornton/dojo-form.git"
+  },
+  "keywords": [
+    "form",
+    "react"
+  ],
+  "author": "Tom Thornton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomthornton/dojo-form/issues"
+  },
+  "homepage": "https://github.com/tomthornton/dojo-form#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
